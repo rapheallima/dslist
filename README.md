@@ -1,6 +1,6 @@
 # 📚 Projeto DSList - Conteúdos e Conceitos Estudados
 
-Este repositório reúne os principais conceitos e práticas estudados ao longo das aulas focadas em **Desenvolvimento de APIs REST com Spring Boot** e boas práticas para projetos web.
+Este repositório reúne os principais conceitos e práticas estudados ao longo desse projeto focado em **Desenvolvimento de APIs REST com Spring Boot** e boas práticas para projetos web.
 
 ---
 
